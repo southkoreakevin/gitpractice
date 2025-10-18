@@ -1,3 +1,6 @@
 aaaaaaa
+<<<<<<< HEAD
 second
 third
+=======
+>>>>>>> parent of f63d5fb (second commit)
